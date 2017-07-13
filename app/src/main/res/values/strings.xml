@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Register Login demo</string>
+    <string name="welcome">WelCome</string>
+    <string name="to_login_your_app_with_your_email_and_password">To demo base App.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="onfirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="please_wait">Please wait</string>
+</resources>
